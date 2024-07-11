@@ -102,7 +102,6 @@ dependencies {
 
 
     //dagger
-    implementation(libs.hilt.android)
     implementation (libs.dagger)
     implementation (libs.javax.annotation.api)
 
@@ -115,7 +114,7 @@ dependencies {
     implementation (libs.github.glide)
 
     implementation(libs.hilt.android)
-    kapt(libs.hilt.compiler)
+    annotationProcessor(libs.hilt.compiler)
 
 
 }

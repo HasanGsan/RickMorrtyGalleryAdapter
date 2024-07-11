@@ -12,7 +12,7 @@
         tools:layout="@layout/home_fragment" />
     <fragment
         android:id="@+id/profile_fragment"
-        android:name="com.example.test_solo_project_h.profile_fragment"
+        android:name="com.example.test_solo_project_h.Profile_fragment"
         android:label="fragment_profile_fragment"
         tools:layout="@layout/profile_fragment" />
 </navigation>

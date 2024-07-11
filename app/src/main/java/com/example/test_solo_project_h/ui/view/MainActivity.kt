@@ -11,9 +11,8 @@ import com.example.test_solo_project_h.R
 import com.example.test_solo_project_h.databinding.ActivityMainBinding
 import com.example.test_solo_project_h.network.NetworkConnect
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
+//@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
