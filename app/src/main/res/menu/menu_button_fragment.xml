@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_fragment"
+        android:icon="@drawable/baseline_calendar_today_24"
+        android:title="New" />
+    <item
+        android:id="@+id/profile_fragment"
+        android:icon="@drawable/baseline_local_fire_department_24"
+        android:title="Popular" />
+</menu>

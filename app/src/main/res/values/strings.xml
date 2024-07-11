@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test_solo_project_h</string>
+    <string name="text_to_layout">Text_Str</string>
+    <string name="text_title_to_oh_snuks">Oh shucks!</string>
+    <string name="text_description_to_oh_snuks">Slow or no internet connection.
+\n Please check your internet settings</string>
+    <string name="title_window_text_string">Get better - unused exploration</string>
+    <string name="description_window_text_string"> Initial design explorations for a online health and wellness \n platform that unfortunately never made it into the product. \n Though this was unused work, Have been contemplating on \n creating a few more of them.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
